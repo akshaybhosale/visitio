@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Home"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Home" />
+
+
+
+
+
+    <item
+        android:id="@+id/hospital"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Hospital" />
+    <item
+        android:id="@+id/camera"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Camera" />
+    <item
+        android:title="Ambulance's Info"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:id="@+id/info"/>
+
+    <item android:title="Settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:id="@+id/setting"/>
+
+
+    <item android:title="QrCode"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:id="@+id/QRCODE"/>
+
+    <item android:title="QrScanner"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:id="@+id/Scanner"/>
+
+    <item android:title="Logout"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:id="@+id/logout"/>
+
+
+
+
+</menu>
+
+
+

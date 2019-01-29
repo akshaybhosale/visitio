@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GHR</string>
+    <string name="title_activity_ambulance_map">Map</string>
+    <string name="title_activity_victim_map">Map</string>
+
+    <string-array name="blood_group_array">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string name="title_activity_hospital_map">Map</string>
+    <string name="title_activity_victim_hospital">Map</string>
+
+</resources>
